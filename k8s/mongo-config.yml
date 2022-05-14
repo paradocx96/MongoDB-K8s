@@ -15,3 +15,4 @@ type: Opaque
 data:
   mongo-user: cm9vdA==
   mongo-password: cm9vdA==
+
